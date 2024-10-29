@@ -9,4 +9,4 @@ This project predicts customer churn by analyzing historical customer data. Resu
 - **Data Processing**: Cleaned and prepared data using SQL and Python (Pandas, NumPy).
 - **Predictive Modeling**: Used logistic regression and decision trees to identify high-risk customers.
 - **Visualization**: Created dashboards in Tableau for stakeholder insights.
-![churn_dashboard](https://github.com/user-attachments/assets/c4d97727-4e79-4079-bb49-e60e7e785158)
+        
